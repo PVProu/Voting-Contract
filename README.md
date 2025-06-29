@@ -1,4 +1,4 @@
-#Voting-system – Voting Smart Contract in Solidity
+<h1 align="center">Voting Smart Contract in Solidity</h1>
 
 Welcome to `voting-system`, a foundational smart contract built in Solidity for secure and transparent blockchain-based voting. This project allows any user to vote on one of two popular blockchain platforms: **Ethereum** or **Polygon**, while ensuring integrity, traceability, and fairness. Designed with simplicity and gas efficiency in mind, this contract showcases the core capabilities of Web3 logic—ownership control, immutability, data validation, and interaction with on-chain users.
 
